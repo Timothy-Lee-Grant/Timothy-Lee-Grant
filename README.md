@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Timothy-Lee-Grant
 - 👀 I’m interested in furthering human technological capabilities and scientific understanding of the universe
-- 🌱 I’m currently learning Machine Learning and Signal analysis
+- 🌱 I’m currently working as an embedded systems engineer.
+- In my free time learning Node JS and Java. 
 
 
 <!---
