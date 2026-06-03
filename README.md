@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Timothy-Lee-Grant
-- 👀 I’m interested in furthering human technological capabilities and scientific understanding of the universe
-- 🌱 I’m currently working as an embedded systems engineer.
-- In my free time learning Node JS and Java. 
+- Dotnet and Embedded Engineer
+- Portfolio Website: https://portfolio-website-five-silk-12.vercel.app/
 
 
 <!---
